@@ -1,4 +1,4 @@
-# Jimmy The Assistant Bot for Telegram -> Student Edition
+# .Jimmy The Assistant Bot for Telegram -> Student Edition
 
 A terrible crappy written bot for one student who open sourced this garbage for others to stare at it and judge. If you like you can help me improve this and make it something useful. The bot's purpose is to help many people around via Telegram and serve like a personal assistant. The Student Edition part serves because this is built for a student. As it progresses it will reach to be one assistant for everyone if I don't forget about it or get split into another Edition. cough Worker Edition
 
